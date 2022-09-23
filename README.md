@@ -54,5 +54,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Hashnode [@wenadev](https://wenadev.hashnode.dev/?guid=1b4520e7-551b-4696-84ee-7378be2a0ff3&deviceId=3034ca59-c919-4441-9290-123b78b6ca04)
-- Twitter [@mawuennaa](https://twitter.com/mawuennaa)
+- Github [@phatkh](https://github.com/Huynhkimphat)
